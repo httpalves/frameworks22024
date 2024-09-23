@@ -1,3 +1,0 @@
-cmdkey /delete git:https://github.com
-git config --global user.name "João Valerio"
-git config --global user.email joao.valerio2@estudante.ifms.edu.br
